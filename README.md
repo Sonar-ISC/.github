@@ -1,6 +1,6 @@
 # Semillero de Investigación SONAR I.S.C.
 
-![Logo del semillero](URL_DE_LA_IMAGEN_DEL_LOGO) <!-- Puedes añadir aquí una imagen del logo del semillero -->
+![Logo del semillero](https://academia.utp.edu.co/sonar-isc/files/2024/03/2-circ-1.png) <!-- Puedes añadir aquí una imagen del logo del semillero -->
 
 El Semillero de Investigación SONAR I.S.C. (anteriormente conocido como FULL TESTING) es un grupo conformado por estudiantes del Programa de Ingeniería de Sistemas y Computación de la Universidad Tecnológica de Pereira que tiene como objetivo el análisis del aseguramiento de calidad durante el proceso de desarrollo de software. Para lograrlo, se enfoca en investigar técnicas, herramientas y principios de las pruebas de software, así como en el aprendizaje de las buenas prácticas y el manejo correcto de la codificación, durante todo el ciclo de vida del software.
 
